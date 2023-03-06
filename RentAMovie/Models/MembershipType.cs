@@ -12,5 +12,9 @@ namespace RentAMovie.Models
         public short SignUpFee { get; set; }
         public byte DurationInMonths { get; set; }
         public byte DiscountRate { get; set; }
+
+        //Those properties are used in Min18YearsIfAMember!
+        public static readonly byte Unknown = 0;
+        public static readonly byte PayAsYouGo = 1;
     }
 }

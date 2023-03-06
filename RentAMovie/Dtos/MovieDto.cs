@@ -1,31 +1,25 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
+using System.ComponentModel.DataAnnotations;
 
-namespace RentAMovie.Models
+namespace RentAMovie.Dtos
 {
-    public class Movie
+    public class MovieDto
     {
-
         public int Id { get; set; }
 
         [Required]
         [StringLength(255)]
-        public string  Name { get; set; }
-        public Genre Genre { get; set; }
+        public string Name { get; set; }
 
-        [Display(Name = "Genre")]
+        [Required]
         public byte GenreId { get; set; }
-
-        [Display(Name = "Date Added")]
         public DateTime DateAdded { get; set; }
-
-        [Display(Name = "Release Date")]
         public DateTime ReleaseDate { get; set; }
 
-        [Range(1,20)]
+        [Range(1, 20)]
         public byte NumberInStock { get; set; }
 
     }

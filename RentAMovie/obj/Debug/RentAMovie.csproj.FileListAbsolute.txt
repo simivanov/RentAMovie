@@ -117,3 +117,5 @@ C:\Users\admin\source\repos\RentAMovie\RentAMovie\obj\Debug\RentAMovie.Migration
 C:\Users\admin\source\repos\RentAMovie\RentAMovie\obj\Debug\RentAMovie.Migrations.AddGenre.resources
 C:\Users\admin\source\repos\RentAMovie\RentAMovie\obj\Debug\RentAMovie.Migrations.AddGenreModel.resources
 C:\Users\admin\source\repos\RentAMovie\RentAMovie\obj\Debug\RentAMovie.Migrations.PopulateGenres.resources
+C:\Users\admin\source\repos\RentAMovie\RentAMovie\obj\Debug\RentAMovie.Migrations.AddDataAnnotations.resources
+C:\Users\admin\source\repos\RentAMovie\RentAMovie\obj\Debug\RentAMovie.Migrations.AddDataAnotationForCustomer.resources

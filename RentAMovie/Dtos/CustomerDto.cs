@@ -3,24 +3,23 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
+using RentAMovie.Models;
 
-namespace RentAMovie.Models
+namespace RentAMovie.Dtos
 {
-    public class Customer
+    public class CustomerDto
     {
-
         public int Id { get; set; }
 
         [Required]
         public string Name { get; set; }
         public bool IsSubscribedToNewsletter { get; set; }
-        public MembershipType MembershipType { get; set; }
 
         [Required]
-        [Display(Name = "Membership Type")]
         public byte MembershipTypeId { get; set; }
 
-        [Min18YearsIfAMember]
+        //[Min18YearsIfAMember]
         public DateTime Birthdate { get; set; }
+
     }
 }
