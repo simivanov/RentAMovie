@@ -12,7 +12,7 @@ namespace RentAMovie.Migrations
             Sql("UPDATE MembershipTypes SET Name = 'Quarterly' WHERE Id = 3");
             Sql("UPDATE MembershipTypes SET Name = 'Annual' WHERE Id = 4");
         }
-        
+    
         public override void Down()
         {
         }

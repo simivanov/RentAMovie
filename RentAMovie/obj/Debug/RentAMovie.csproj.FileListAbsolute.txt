@@ -119,3 +119,11 @@ C:\Users\admin\source\repos\RentAMovie\RentAMovie\obj\Debug\RentAMovie.Migration
 C:\Users\admin\source\repos\RentAMovie\RentAMovie\obj\Debug\RentAMovie.Migrations.PopulateGenres.resources
 C:\Users\admin\source\repos\RentAMovie\RentAMovie\obj\Debug\RentAMovie.Migrations.AddDataAnnotations.resources
 C:\Users\admin\source\repos\RentAMovie\RentAMovie\obj\Debug\RentAMovie.Migrations.AddDataAnotationForCustomer.resources
+C:\Users\admin\source\repos\RentAMovie\RentAMovie\bin\AutoMapper.dll
+C:\Users\admin\source\repos\RentAMovie\RentAMovie\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\source\repos\RentAMovie\RentAMovie\bin\System.Web.Http.dll
+C:\Users\admin\source\repos\RentAMovie\RentAMovie\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\source\repos\RentAMovie\RentAMovie\bin\AutoMapper.xml
+C:\Users\admin\source\repos\RentAMovie\RentAMovie\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\source\repos\RentAMovie\RentAMovie\bin\System.Web.Http.xml
+C:\Users\admin\source\repos\RentAMovie\RentAMovie\bin\System.Web.Http.WebHost.xml
